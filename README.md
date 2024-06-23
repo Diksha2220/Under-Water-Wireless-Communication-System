@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="https://github.com/Diksha2220/Media/blob/main/UWWCS%20gif.gif" alt="Caesar Cipher" width="500"/>
+</div>
+
 ### Project Idea: 🌐🔵 Underwater Wireless Communication System using Arduino Uno and IR LEDs
 
 #### Objective
@@ -108,3 +112,7 @@ Synchronization: ⏳ Ensure the timing (delays) in both transmitter and receiver
 Waterproofing: 🛡️ Make sure all electronic components are properly enclosed to prevent water damage.
 
 This project showcases the concept of underwater communication with IR light. For practical applications, exploring acoustic or ultrasonic communication methods is recommended due to their superior performance in underwater environments.
+
+<div align="center">
+    <img src="https://example.com/path/to/your/image.png" alt="Caesar Cipher" width="500"/>
+</div>
